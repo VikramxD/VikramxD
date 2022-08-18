@@ -29,7 +29,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  
+
+
 
 ## 🕹️ Current Interests
 
@@ -45,3 +46,10 @@
 - LeetCode
 - Kaggle
 - AWS
+
+
+
+<p align="center">
+<a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/></a>
+</p>
+  
