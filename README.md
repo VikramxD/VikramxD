@@ -49,13 +49,6 @@
 - AWS
 
 
-<div align="center">
- 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
-</div>
-
 
 <p align="center">
 <a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/></a>
