@@ -48,7 +48,12 @@
 - Kaggle
 - AWS
 
-               ![snake gif](https://github.com/VikramxD/VikramxD/blob/output/github-contribution-grid-snake.gif)
+ <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
 
 
 <p align="center">
