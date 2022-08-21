@@ -48,6 +48,14 @@
 - Kaggle
 - AWS
 
+
+### Now Playing 🎧
+
+<div align="center">
+
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/e487e4yy0ebwo0l7xjslcya0e)
+
+</div>
  <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
@@ -56,7 +64,5 @@
 </div>
 
 
-<p align="center">
-<a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/></a>
-</p>
+
   
