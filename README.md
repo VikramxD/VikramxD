@@ -1,10 +1,21 @@
-### Hi there 👋
+<h1 align = center>Hi there 👋</h1>
+
+
+
+
+<h2> About Me </h2>
+<ul>
+  <li>I am into ML/DL, CV, NLP</li>
+ <li>I’m currently learning Pytorch Lightning ⚡ and MLOPS</l2>
+</ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=nightowl)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=nightowl&hide_border=false)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikramxD&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 🛠️ Skills
 
