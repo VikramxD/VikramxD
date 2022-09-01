@@ -58,14 +58,7 @@
 - AWS
 
 
-### Now Playing 🎧
 
-<div align="center">
-
-[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/e487e4yy0ebwo0l7xjslcya0e)
-
-</div>
- <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
