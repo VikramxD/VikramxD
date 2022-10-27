@@ -5,12 +5,13 @@
 
 <h2> About Me </h2>
 <ul>
-  <li>I am into ML/DL, CV, NLP</li>
+  <li>I am into ML/DL, CV</li>
  <li>I’m currently learning Pytorch Lightning ⚡ and MLOPS</l2>
 </ul>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=nightowl&hide_border=false)<br/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vikramxD&theme=github_dark&show_icons=true)
 
 
 
