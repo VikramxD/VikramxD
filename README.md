@@ -10,10 +10,10 @@
 </ul>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=night_owl&hide_border=false)<br/>
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vikramxD&theme=github_dark&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vikramxD&theme=night_owlk&show_icons=true)
 
 
 
