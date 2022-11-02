@@ -50,8 +50,6 @@
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Natural Language Processing
-- Tensorflow
 - PyTorch
 - Data Structures and Algorithms
 - Building Progressive Web Apps
