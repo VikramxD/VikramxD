@@ -1,7 +1,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VikramxD&label=Profile%20views&color=0e75b6&style=flat" alt="AbdessamieAllouane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VikramxD&label=Profile%20views&color=0e75b6&style=flat" alt="Vikram" /> </p>
 
 <h2> About Me </h2>
 <ul>
