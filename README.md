@@ -5,8 +5,8 @@
 
 <h2> About Me </h2>
 <ul>
-  <li>I am into ML/DL, CV</li>
- <li>I’m currently learning Pytorch Lightning ⚡ and MLOPS</l2>
+  <li>I am into DL, CV , Production Machine Learning </li>
+ <li>I’m currently learning to work with LLMS and Foundation Models</l2>
 </ul>
 
 
