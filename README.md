@@ -50,13 +50,10 @@
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- PyTorch
-- Data Structures and Algorithms
-- Building Progressive Web Apps
+- PyTorch Lightning
 - OSS
-- LeetCode
 - Kaggle
-- AWS
+- Azure
 
 
 
