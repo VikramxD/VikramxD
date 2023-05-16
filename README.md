@@ -13,10 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=night_owl&hide_border=false)<br/>
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vikramxD&theme=night_owlk&show_icons=true)
-
-
-
 
 ## 🛠️ Skills
 
