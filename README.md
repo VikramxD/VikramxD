@@ -31,7 +31,7 @@
 
 
 ### Machine Learning
-![Lightning](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=for-the-badge&logo=Lightning&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
