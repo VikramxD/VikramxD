@@ -10,7 +10,7 @@
 </ul>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=night_owl&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=nightowl&hide_border=false)<br/>
 
 
 
