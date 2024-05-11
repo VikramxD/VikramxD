@@ -8,11 +8,12 @@
 <h2> About Me </h2>
 <ul>
   <li> Machine Learning Engineer working on Products  </li>
- <li>Currently Super Exicited About Diffusion Models and ML Systems</l2>
+ <li>Currently Working with Diffusion Models and ML Systems</l2>
 </ul>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=nightowl&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=nightowl)
 
 
