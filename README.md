@@ -1,4 +1,8 @@
 
+<div align="center">
+<img width="200px" src="https://komarev.com/ghpvc/?username=vikramxD&&style=for-the-badge" align="center" />
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VikramxD&label=Profile%20views&color=0e75b6&style=flat" alt="Vikram" /> </p>
