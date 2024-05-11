@@ -7,8 +7,8 @@
 
 <h2> About Me </h2>
 <ul>
-  <li>I am into DL, CV , Production Machine Learning </li>
- <li>I’m currently learning to work with LLMS and Foundation Models</l2>
+  <li> Machine Learning Engineer working on Products  </li>
+ <li>Currently Super Exicited About Diffusion Models and ML Systems</l2>
 </ul>
 
 
@@ -46,13 +46,14 @@
 
 
 
+
 ## 🕹️ Current Interests
 
-- Deep Learning
-- Computer Vision
-- Lightning 
-- MLOps
-- AWS
+- Multimodal Models
+- Transformers
+- Diffusion Models
+- ML Systems
+- IAC
 
 
 
