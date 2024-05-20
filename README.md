@@ -7,11 +7,11 @@
 - Currently working with Diffusion Models and ML Systems.
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple" />
   </a>
   <br/>
-  <img src="https://github-readme-streak-stats-86n912kkh-vikramxds-projects.vercel.app?user=vikramxD&theme=midnight-purple&hide_border=False">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-86n912kkh-vikramxds-projects.vercel.app?user=vikramxD&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ## 🛠️ Skills
