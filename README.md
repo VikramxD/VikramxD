@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple" />
   </a>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=VikramxD&theme=midnight-purple&hide_border=False/>
+  <img src="https://github-readme-streak-stats-86n912kkh-vikramxds-projects.vercel.app?user=vikramxD&theme=midnight-purple&hide_border=False">
 </div>
 
 ## 🛠️ Skills
