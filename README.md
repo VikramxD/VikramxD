@@ -8,11 +8,10 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=VikramxD&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple" />
   </a>
   <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple" />
+  <img src="https://streak-stats.demolab.com/?user=VikramxD&theme=midnight-purple" />
 </div>
 
 ## 🛠️ Skills
