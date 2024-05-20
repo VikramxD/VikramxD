@@ -12,7 +12,7 @@
 </ul>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=midnight-purple)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VikramxD&theme=midnight-purple)](https://git.io/streak-stats)
 <br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple)
