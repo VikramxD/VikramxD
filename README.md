@@ -12,8 +12,7 @@
 </ul>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=midnight-purple&hide_border=false)
-<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VikramxD&theme=midnight-purple)
 <br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple)
