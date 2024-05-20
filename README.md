@@ -11,7 +11,7 @@
   </a>
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-86n912kkh-vikramxds-projects.vercel.app?user=vikramxD&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats-86n912kkh-vikramxds-projects.vercel.app?user=vikramxD&theme=midnight-purple&hide_border=False" alt="GitHub Streak" /></a>
 </div>
 
 ## 🛠️ Skills
