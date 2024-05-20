@@ -10,7 +10,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=VikramxD&theme=midnight-purple" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple" />
 </div>
 
