@@ -36,7 +36,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikramxD&theme=tokyo-night&bg_color=2e3440&hide_border=true)](https://github.com/vikramxD/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikramxD&theme=tokyo-night&area_color=2e3440&hide_border=true)](https://github.com/vikramxD/github-readme-activity-graph)
 
 ## 🕹️ Current Interests
 
