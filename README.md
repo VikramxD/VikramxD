@@ -39,7 +39,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikramxD&theme=tokyo-night&area_color=2e3440&hide_border=true)](https://github.com/vikramxD/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area_color=2e3440&hide_border=true)](https://github.com/VikramxD/github-readme-activity-graph)
 
 ## 🕹️ Current Interests
 
