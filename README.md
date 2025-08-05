@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="200px" src="https://komarev.com/ghpvc/?username=vikramxD&&style=for-the-badge" align="center" />
-</div>
 
 ## About Me
 - Machine Learning Engineer focused on developing innovative products.
