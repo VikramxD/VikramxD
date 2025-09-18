@@ -4,9 +4,6 @@
 - Currently working with Diffusion Models and ML Systems.
 - Tinkering around Agentic Workflows
 
-|               |               |
-| ------------- | ------------- |
-| ![GitHub Streak](https://github-readme-streak-stats-drab-nine.vercel.app?user=vikramxD&theme=midnight-purple&hide_border=true) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple)](https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=midnight-purple) |
 
 
 
