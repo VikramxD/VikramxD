@@ -17,8 +17,7 @@
   - Built rapid video enhancement pipelines using diffusion models
   - Optimized inference systems for production deployment
 
-  **ML Engineer @ Lossfunk**
-  - Developed compact language models for intuitive travel recommendations
+  **Resident @ Lossfunk**
   - Focused on model compression and efficient deployment
 
   ## 🔬 Active Research & Projects
