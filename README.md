@@ -1,45 +1,81 @@
+ # Hi, I'm Vikram 👋
 
-## About Me
-- Machine Learning Engineer focused on developing innovative products.
-- Currently working with Diffusion Models and ML Systems.
-- Tinkering around Agentic Workflows
+  Machine Learning Engineer specializing in building robust production ML systems, with expertise in computer vision, audio processing, and generative diffusion models. I focus on
+  optimizing inference for speed and efficiency, maximizing hardware potential, and ensuring seamless scalability.
 
+  ## 🚀 Currently
 
+  **ML Engineer @ [Dreamflux](https://dreamflux.ai)**
+  - Building AI-driven characters that evolve through layered memory structures
+  - Creating multi-agent environments where narratives unfold organically with spatial intelligence and adaptive roles
+  - Researching long-term contextual retention in AI systems
 
+  ## 💼 Previous Experience
 
-## 🛠️ Skills
+  **ML Engineer @ Playjump**
+  - Orchestrated serverless diffusion workflows for consistent character rendering
+  - Built rapid video enhancement pipelines using diffusion models
+  - Optimized inference systems for production deployment
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
-  
-### Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  **ML Engineer @ Lossfunk**
+  - Developed compact language models for intuitive travel recommendations
+  - Focused on model compression and efficient deployment
 
+  ## 🔬 Active Research & Projects
 
-### Machine Learning
-![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=for-the-badge&logo=Lightning&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  - **ComfyUI Extensions**: Developing advanced temporal upscalers for fluid video restoration
+  - **Diffusion APIs**: Engineering lightweight APIs that harness diffusion models for narrative visuals
+  - **Memory Systems**: Deep diving into research papers on long-term contextual retention in AI systems
+  - **3D Avatar Generation**: Bridging 2D diffusion models with volumetric representations
+  - **Shader Generation**: Tackling text-to-shader and image-to-shader pipelines that transform natural language and visuals into programmable graphics code
 
+  ## 🛠️ Technical Skills
 
-### MLOps 
-![Weights and Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+  ### Languages & Tools
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+  ### Machine Learning & AI
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area_color=2e3440&hide_border=true)](https://github.com/VikramxD/github-readme-activity-graph)
+  ### MLOps & Infrastructure
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-## 🕹️ Current Interests
+  ### Frontend (Side Projects)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-- **Multimodal Models:** Integrating multiple types of data for more robust AI.
-- **Transformers:** Working on advanced NLP models and their applications.
-- **Diffusion Models:** Exploring generative models for various tasks.
-- **ML Systems:** Developing and optimizing scalable machine learning systems.
-- **Infrastructure as Code (IAC):** Automating and managing infrastructure with code.
-- **Agents** Building complex Multiagentic Systems
+  ## 🎯 Core Competencies
+
+  - **Diffusion Models**: Production deployment, optimization, and custom pipeline development
+  - **ML Systems**: Scalable inference systems, model optimization, and hardware acceleration
+  - **Multi-Agent Systems**: Building complex agentic workflows and orchestration
+  - **Computer Vision**: Image/video processing, temporal consistency, and upscaling
+  - **Infrastructure as Code**: Automated deployment and infrastructure management
+
+  ## 📊 GitHub Activity
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area_color=2e3440&hide_border=true)](https://github.com/VikramxD/githu
+  b-readme-activity-graph)
+
+  ## 📝 Latest Blog Posts
+
+  Check out my thoughts and technical deep-dives at [Applied Mode](https://appliedmode.com)
+
+  ## 🤝 Connect With Me
+
+  [![GitHub](https://img.shields.io/badge/GitHub-VikramxD-181717?style=for-the-badge&logo=github)](https://github.com/VikramxD)
+  [![Twitter](https://img.shields.io/badge/Twitter-@V__J__S__1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/V_J_S_1)
+  [![Email](https://img.shields.io/badge/Email-vikram@dreamflux.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram@dreamflux.ai)
+
+  ---
