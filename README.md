@@ -68,9 +68,6 @@
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area_color=2e3440&hide_border=true)](https://github.com/VikramxD/githu
   b-readme-activity-graph)
 
-  ## 📝 Latest Blog Posts
-
-  Check out my thoughts and technical deep-dives at [Applied Mode](https://appliedmode.com)
 
   ## 🤝 Connect With Me
 
