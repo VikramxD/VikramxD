@@ -65,8 +65,7 @@
 
   ## 📊 GitHub Activity
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area_color=2e3440&hide_border=true)](https://github.com/VikramxD/githu
-  b-readme-activity-graph)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=draculat&area_color=2e3440&hide_border=true)](https://github.com/VikramxD/github-readme-activity-graph)
 
 
   ## 🤝 Connect With Me
