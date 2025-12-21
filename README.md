@@ -5,7 +5,7 @@
 
   ## 🚀 Currently
 
-  **ML Engineer @ [Dreamflux](https://dreamflux.ai)**
+  **Founding Engineer @ [Dreamflux](https://dreamflux.ai)**
   - Building AI-driven characters that evolve through layered memory structures
   - Creating multi-agent environments where narratives unfold organically with spatial intelligence and adaptive roles
   - Researching long-term contextual retention in AI systems
