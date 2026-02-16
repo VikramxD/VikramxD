@@ -1,4 +1,4 @@
- # Hi, I'm Vikram 👋
+# Hi, I'm Vikram 👋
 
   Machine Learning Engineer specializing in building robust production ML systems, with expertise in computer vision, audio processing, and generative diffusion models. I focus on
   optimizing inference for speed and efficiency, maximizing hardware potential, and ensuring seamless scalability.
@@ -62,10 +62,32 @@
   - **Computer Vision**: Image/video processing, temporal consistency, and upscaling
   - **Infrastructure as Code**: Automated deployment and infrastructure management
 
-  ## 📊 GitHub Activity
+  ## 📊 GitHub Stats
+
+  <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramxD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+  </div>
+
+  <div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikramxD&theme=tokyonight&hide_border=true" />
+
+  </div>
+
+  <div align="center">
 
   [![VikramxD's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area=true&hide_border=true&custom_title=VikramxD's%20Contribution%20Activity&radius=16)](https://github.com/VikramxD/github-readme-activity-graph)
 
+  </div>
+
+  <div align="center">
+
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VikramxD&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+  </div>
 
   ## 🤝 Connect With Me
 
