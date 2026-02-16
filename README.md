@@ -98,7 +98,7 @@
 
   <div align="center">
 
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VikramxD&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+  [![GitHub Trophies](https://github-trophies.vercel.app/?username=VikramxD&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
   </div>
 
