@@ -66,14 +66,27 @@
 
   <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VikramxD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramxD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramxD&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikramxD&theme=tokyonight" height="180" />
 
   </div>
 
   <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VikramxD&theme=tokyonight&hide_border=true" />
+
+  </div>
+
+  <div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikramxD&theme=tokyonight&utcOffset=5.5" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikramxD&theme=tokyonight" height="180" />
+
+  </div>
+
+  <div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramxD&theme=tokyonight" />
 
   </div>
 
