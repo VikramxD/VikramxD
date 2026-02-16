@@ -1,111 +1,145 @@
-# Hi, I'm Vikram 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=220&section=header&text=Vikram&fontSize=80&fontColor=70a5fd&animation=fadeIn&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20Founding%20Engineer%20%40%20Dreamflux&descSize=18&descColor=38bdae&descAlignY=55" width="100%" />
 
-  Machine Learning Engineer specializing in building robust production ML systems, with expertise in computer vision, audio processing, and generative diffusion models. I focus on
-  optimizing inference for speed and efficiency, maximizing hardware potential, and ensuring seamless scalability.
+<div align="center">
 
-  ## 🚀 Currently
+<a href="https://github.com/VikramxD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=520&lines=Diffusion+Models+%7C+Multi-Agent+Systems;Production+ML+%7C+Inference+Optimization;Computer+Vision+%7C+Generative+AI;Building+the+Future+of+AI+at+Dreamflux" alt="Typing SVG" /></a>
 
-  **Founding Engineer @ [Dreamflux](https://dreamflux.ai)**
-  - Building AI-driven characters that evolve through layered memory structures
-  - Creating multi-agent environments where narratives unfold organically with spatial intelligence and adaptive roles
-  - Researching long-term contextual retention in AI systems
+<br/>
 
-  ## 💼 Previous Experience
+![Profile Views](https://komarev.com/ghpvc/?username=VikramxD&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/VikramxD?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github)](https://github.com/VikramxD?tab=followers)
+&nbsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/V_J_S_1?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=x&logoColor=white)](https://x.com/V_J_S_1)
 
-  **ML Engineer @ Playjump**
-  - Orchestrated serverless diffusion workflows for consistent character rendering
-  - Built rapid video enhancement pipelines using diffusion models
-  - Optimized inference systems for production deployment
+</div>
 
-  **Resident @ Lossfunk**
-  - Focused on model compression and efficient deployment
+<br/>
 
-  ## 🔬 Active Research & Projects
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-  - **ComfyUI Extensions**: Developing advanced temporal upscalers for fluid video restoration
-  - **Diffusion APIs**: Engineering lightweight APIs that harness diffusion models for narrative visuals
-  - **Memory Systems**: Deep diving into research papers on long-term contextual retention in AI systems
-  - **3D Avatar Generation**: Bridging 2D diffusion models with volumetric representations
-  - **Shader Generation**: Tackling text-to-shader and image-to-shader pipelines that transform natural language and visuals into programmable graphics code
+> Machine Learning Engineer specializing in building robust production ML systems, with expertise in computer vision, audio processing, and generative diffusion models. I focus on optimizing inference for speed and efficiency, maximizing hardware potential, and ensuring seamless scalability.
 
-  ## 🛠️ Technical Skills
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  ### Languages & Tools
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Currently
+**Founding Engineer @ [Dreamflux](https://dreamflux.ai)**
+- AI-driven characters with layered memory structures
+- Multi-agent environments with spatial intelligence
+- Long-term contextual retention research
 
-  ### Machine Learning & AI
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### Previously
+**ML Engineer @ Playjump** — Serverless diffusion & video pipelines
+**Resident @ Lossfunk** — Model compression & deployment
 
-  ### MLOps & Infrastructure
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-  ### Frontend (Side Projects)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### Active Research
+- **ComfyUI Extensions** — Temporal upscalers for video restoration
+- **Diffusion APIs** — Lightweight APIs for narrative visuals
+- **Memory Systems** — Long-term contextual retention in AI
+- **3D Avatar Generation** — 2D diffusion to volumetric reps
+- **Shader Generation** — Text/image-to-shader pipelines
 
-  ## 🎯 Core Competencies
+</td>
+</tr>
+</table>
 
-  - **Diffusion Models**: Production deployment, optimization, and custom pipeline development
-  - **ML Systems**: Scalable inference systems, model optimization, and hardware acceleration
-  - **Multi-Agent Systems**: Building complex agentic workflows and orchestration
-  - **Computer Vision**: Image/video processing, temporal consistency, and upscaling
-  - **Infrastructure as Code**: Automated deployment and infrastructure management
+---
 
-  ## 📊 GitHub Stats
+## Tech Stack
 
-  <div align="center">
+<div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramxD&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikramxD&theme=tokyonight" height="180" />
+#### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-  </div>
+#### ML & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-  <div align="center">
+#### Infrastructure & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikramxD&theme=tokyonight&hide_border=true" />
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-  </div>
+</div>
 
-  <div align="center">
+---
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikramxD&theme=tokyonight&utcOffset=5.5" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikramxD&theme=tokyonight" height="180" />
+## GitHub Stats
 
-  </div>
+<div align="center">
 
-  <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramxD&theme=tokyonight" height="170" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikramxD&theme=tokyonight" height="170" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramxD&theme=tokyonight" />
+<br/>
 
-  </div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VikramxD&theme=tokyonight&hide_border=true" />
 
-  <div align="center">
+<br/>
 
-  [![VikramxD's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area=true&hide_border=true&custom_title=VikramxD's%20Contribution%20Activity&radius=16)](https://github.com/VikramxD/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikramxD&theme=tokyonight&utcOffset=5.5" height="170" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikramxD&theme=tokyonight" height="170" />
 
-  </div>
+<br/>
 
-  <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramxD&theme=tokyonight" width="660" />
 
-  [![GitHub Trophies](https://github-trophies.vercel.app/?username=VikramxD&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-  </div>
+---
 
-  ## 🤝 Connect With Me
+## Activity
 
-  [![GitHub](https://img.shields.io/badge/GitHub-VikramxD-181717?style=for-the-badge&logo=github)](https://github.com/VikramxD)
-  [![Twitter](https://img.shields.io/badge/Twitter-@V__J__S__1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/V_J_S_1)
-  [![Email](https://img.shields.io/badge/Email-vikram@dreamflux.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram@dreamflux.ai)
+<div align="center">
 
-  ---
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area=true&hide_border=true&radius=16)](https://github.com/VikramxD)
+
+<br/>
+
+[![Trophies](https://github-trophies.vercel.app/?username=VikramxD&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/VikramxD)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-VikramxD-181717?style=for-the-badge&logo=github)](https://github.com/VikramxD)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@V__J__S__1-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/V_J_S_1)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-vikram@dreamflux.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram@dreamflux.ai)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=120&section=footer" width="100%" />
