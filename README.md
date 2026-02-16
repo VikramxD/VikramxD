@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/VikramxD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=520&lines=Diffusion+Models+%7C+Multi-Agent+Systems;Production+ML+%7C+Inference+Optimization;Computer+Vision+%7C+Generative+AI;Building+the+Future+of+AI+at+Dreamflux" alt="Typing SVG" /></a>
+<a href="https://github.com/VikramxD"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=520&lines=Diffusion+Models+%7C+Multi-Agent+Systems;Production+ML+%7C+Inference+Optimization;Computer+Vision+%7C+Generative+AI;AI+Characters+%7C+Emergent+Storytelling+%7C+Memory" alt="Typing SVG" /></a>
 
 <br/>
 
