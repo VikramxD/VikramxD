@@ -110,13 +110,45 @@
 
 ---
 
+## 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## Activity
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area=true&hide_border=true&radius=16)](https://github.com/VikramxD)
 
-<br/>
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VikramxD/VikramxD/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
 
 [![Trophies](https://github-trophies.vercel.app/?username=VikramxD&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/VikramxD)
 
