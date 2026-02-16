@@ -64,7 +64,7 @@
 
   ## 📊 GitHub Activity
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=draculat&area_color=2e3440&hide_border=true)](https://github.com/VikramxD/github-readme-activity-graph)
+  [![VikramxD's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VikramxD&theme=tokyo-night&area=true&hide_border=true&custom_title=VikramxD's%20Contribution%20Activity&radius=16)](https://github.com/VikramxD/github-readme-activity-graph)
 
 
   ## 🤝 Connect With Me
