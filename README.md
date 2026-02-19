@@ -42,11 +42,11 @@
 <td width="50%" valign="top">
 
 ### Active Research
-- **ComfyUI Extensions** — Temporal upscalers for video restoration
-- **Diffusion APIs** — Lightweight APIs for narrative visuals
-- **Memory Systems** — Long-term contextual retention in AI
-- **3D Avatar Generation** — 2D diffusion to volumetric reps
-- **Shader Generation** — Text/image-to-shader pipelines
+- **ComfyUI Extensions**
+- **Multi Agent Systems
+- **Memory Systems** 
+- **3D Avatar Generation** 
+- **Shader Generation**
 
 </td>
 </tr>
