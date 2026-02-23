@@ -36,7 +36,7 @@
 
 ### Previously
 **ML Engineer @ Playjump** — Serverless diffusion & video pipelines
-**Resident @ Lossfunk** — Model compression & deployment
+**Aluminus @ [Lossfunk](https://lossfunk.com/) ** Video SuperResolution and Agents
 
 </td>
 <td width="50%" valign="top">
