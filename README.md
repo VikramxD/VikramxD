@@ -43,7 +43,7 @@
 
 ### Active Research
 - **ComfyUI Extensions**
-- **Multi Agent Systems
+- **Multi Agent Systems**
 - **Memory Systems** 
 - **3D Avatar Generation** 
 - **Shader Generation**
