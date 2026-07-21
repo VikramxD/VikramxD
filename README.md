@@ -127,7 +127,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=VikramxD&theme=tokyonight&hide_border=true" />
+<img src="./profile-streak/github-streak.svg" />
 
 <br/>
 
